@@ -1,4 +1,4 @@
-# image_similarity
+# image_similarity aka SIMVIZ
 Upload two images (such as aligned maps) with the same regions and legend colors. 
 
 The output is a similarity score and similarity image of the two images. 
